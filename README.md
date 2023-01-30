@@ -27,6 +27,8 @@ Use the current dropdown component implementation as a starting point and build 
 
 ## What we're looking for
 
+Please don't feel the need to spend too much time on this assessment! You can always discuss your approach and how you would've implemented something you didn't have the time for. We're mainly looking for how you work and communicate.
+
 Overall:
 
 * A basic working custom dropdown component
