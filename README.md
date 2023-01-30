@@ -8,7 +8,7 @@ The purpose of this assessment is to create a custom dropdown menu. This reposit
 
 
 
-Use the current dropdown component implementation as a starting point and build a completely custom dropdown within this repo. Here's an example of a custom dropdown with extra functionality below:
+Use the current dropdown component implementation as a starting point and build a completely custom dropdown within this repo. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown:
 
 ![210434026-737809ed-5e6c-4b10-97ff-e489bbfe72e4_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/12725292/215605827-a20fda39-0dec-4bb8-8928-8118695489bc.gif)
 
