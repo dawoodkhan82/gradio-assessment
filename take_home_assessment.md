@@ -4,9 +4,13 @@
 
 The purpose of this assessment is to create a custom dropdown menu. This repository currently implements a standard dropdown menu using the html `select` element:
 
+![dropdown_standard](https://user-images.githubusercontent.com/12725292/215598524-f4a628a4-13ca-4d9a-a2c3-9c0c0fc5b938.gif)
+
 
 
 Use the current dropdown component implementation as a starting point and build a completely custom dropdown within this repo. Here's an example of a custom dropdown with extra functionality below:
+
+![dropdown_custom](https://user-images.githubusercontent.com/12725292/215598540-7ece725b-0bb8-4fca-84cd-126fbffc8198.gif)
 
 
 ## Prerequisites
