@@ -41,9 +41,9 @@ It's helpful to know the overall structure of the repository, although you will 
 
 * Below are the files you will need to know about:
   - `gradio/ui/packages/app/src/components/Dropdown/Dropdown.svelte`
-    -  This is a simple file that creates a `Dropdown` component and wraps it in a `Block`
+    -  This is a simple file that creates a `Dropdown` component and wraps it in a `Block`.
   - `gradio/ui/packages/form/src/Dropdown.svelte`
-    - This is the file where the frontend implementation of your custom dropdown will go. You will be working with this same `choices` variable when creating your custom dropdown
+    - This is the file where the frontend implementation of your custom dropdown will go. Notice how the `choices` variable is used to create an `<option>` with the current implementation.
     -  https://github.com/dawoodkhan82/gradio/blob/7aa07540438c406e4fd9774bee9889bfda61adbe/ui/packages/form/src/Dropdown.svelte#L23
   - `gradio/gradio/components.py`
     - For the [extra dropdown features](https://github.com/dawoodkhan82/gradio#extra-dropdown-features-optional) you may want to add, you're going to have to change the python api and add any additional developer facing parameters for the dropdown component. For example, you may want to add a `multiselect` bool parameter to allow the developer to toggle on the ability to select multiple choices.
