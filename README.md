@@ -15,14 +15,14 @@ The purpose of this assessment is to create a custom dropdown menu. The dropdown
 
 
 
-As shown above, the current dropdown is limited in its capabilities and very simplistic design. Your job will be to replace this dropdown with your own custom implementation and add more features, requested by our developers. Use the current dropdown component implementation as a starting point and build a completely custom dropdown within a fork of this repository. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown, we want to see your own unique approach:
+As shown above, the current dropdown is limited in its capabilities and very simplistic design. Your job will be to replace this dropdown with your own custom implementation and add more features, requested by our developers. Use the current dropdown component implementation as a starting point and build a completely custom dropdown within a clone of this repository. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown, we want to see your own unique approach:
 
 ![210434026-737809ed-5e6c-4b10-97ff-e489bbfe72e4_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/12725292/215605827-a20fda39-0dec-4bb8-8928-8118695489bc.gif)
 
 
 ## Prerequisites
 
-* First, you will fork this repository and follow the [CONTRIBUTING.md](https://github.com/gradio-app/gradio/blob/main/CONTRIBUTING.md) guide in order to setup your local development environment (both client and server side).
+* First, you will clone this repository and follow the [CONTRIBUTING.md](https://github.com/gradio-app/gradio/blob/main/CONTRIBUTING.md) guide in order to setup your local development environment (both client and server side).
 
   - We will setup an initial call to help with any issues when setting up your local environment. Try to see how far you can get on your own by following the guide. But we expect there to be some hurdles, so don't stress, we'll help get it sorted!
 
