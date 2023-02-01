@@ -22,7 +22,7 @@ As shown above, the current dropdown is limited in its capabilities and very sim
 
 ## Prerequisites
 
-* First, you will create a private fork of this repository and follow the [CONTRIBUTING.md](https://github.com/gradio-app/gradio/blob/main/CONTRIBUTING.md) guide in order to setup your local development environment (both client and server side).
+* First, you will create a private fork of this repository and follow the [CONTRIBUTING.md](https://github.com/dawoodkhan82/gradio-assessment/blob/main/CONTRIBUTING.md) guide in order to setup your local development environment (both client and server side).
 
   - We will setup an initial call to help with any issues when setting up your local environment. Try to see how far you can get on your own by following the guide. But we expect there to be some hurdles, so don't stress, we'll help get it sorted!
 
