@@ -9,13 +9,13 @@ The format of the assessment will consist of:
 2. Time on your own to complete the assessment. (You can always ask us clarifying questions during this process)
 3. A final call to explain your submission and approach.
 
-The purpose of this assessment is to create a custom dropdown menu. This repository currently implements a standard dropdown menu using the html `select` element:
+The purpose of this assessment is to create a custom dropdown menu. The dropdown component is an important input component within the Gradio library. It allows developers to enable users to select from a list of options within their demos. This repository currently implements a standard dropdown menu using the html `select` element:
 
 ![dropdown_standard](https://user-images.githubusercontent.com/12725292/215598524-f4a628a4-13ca-4d9a-a2c3-9c0c0fc5b938.gif)
 
 
 
-Use the current dropdown component implementation as a starting point and build a completely custom dropdown within this repo. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown:
+As shown above, the current dropdown is limited in its capabilities and very simplistic design. Your job will be to replace this dropdown with your own custom implementation and add more features, requested by our developers. Use the current dropdown component implementation as a starting point and build a completely custom dropdown within a fork of this repository. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown, we want to see your own unique approach:
 
 ![210434026-737809ed-5e6c-4b10-97ff-e489bbfe72e4_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/12725292/215605827-a20fda39-0dec-4bb8-8928-8118695489bc.gif)
 
