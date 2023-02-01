@@ -63,17 +63,16 @@ Please don't feel the need to spend too much time on this assessment! You can al
 * Ability to talk through your implementation
 * Willingness to ask us questions if you reach any issues or have trouble understanding anything
 
-### Must-have Dropdown Features:
+### Core Dropdown Features:
 
 * Allow selection of a single dropdown option
 * Clear the selected option
 * Ability to type and search through the dropdown options
 * Keyboard functionality: enter key to select an option, and arrow key support for navigating options
-* Nice design and UX/UI
+* [A11Y (accessiblity)](https://developer.mozilla.org/en-US/docs/Web/Accessibility) adherence 
 
 ### Extra Dropdown Features (Optional):
 * Ability to select multiple dropdown options
 * Section headers in the dropdown to organize options
 * Filter dropdown options by typing in section header name
 * Ability to clear all options and individual options
-* [A11Y (accessiblity)](https://developer.mozilla.org/en-US/docs/Web/Accessibility) adherence 
