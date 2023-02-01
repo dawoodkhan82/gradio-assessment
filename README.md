@@ -2,6 +2,13 @@
 
 ## Overview
 
+Thanks for taking the time to interview with the Gradio team, the next step in the process includes completing a take-home assessment. 
+
+The format of the assessment will consist of:
+1. A quick call to help you get setup with your local development environment and answer any questions around the assessment.
+2. Time on your own to complete the assessment. (You can always ask us clarifying questions during this process)
+3. A final call to explain your submission and approach.
+
 The purpose of this assessment is to create a custom dropdown menu. This repository currently implements a standard dropdown menu using the html `select` element:
 
 ![dropdown_standard](https://user-images.githubusercontent.com/12725292/215598524-f4a628a4-13ca-4d9a-a2c3-9c0c0fc5b938.gif)
