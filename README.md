@@ -36,7 +36,7 @@ As shown above, the current dropdown is limited in its capabilities and very sim
 
 Please don't feel the need to spend too much time on this assessment! You can always discuss your approach and how you would've implemented something you didn't have the time for. We're mainly looking for how you work and communicate.
 
-Overall:
+### Overall:
 
 * A basic working custom dropdown component
 * Code quality and organization
@@ -46,14 +46,14 @@ Overall:
 * Ability to talk through your implementation
 * Willingness to ask us questions if you reach any issues or have trouble understanding anything
 
-Dropdown Features:
+### Dropdown Features:
 
 * Nice design and UX/UI
 * Ability to type and search through dropdown options
 * Clear selected option
 * Keyboard functionality: enter key to select an option, and arrow key support for navigating options
 
-Extra Dropdown Features (Optional):
+### Extra Dropdown Features (Optional):
 * Ability to select multiple dropdown options
 * Section headers in the dropdown to organize options
 * Filter dropdown options by typing in section header name
