@@ -15,7 +15,7 @@ The purpose of this assessment is to create a custom dropdown menu. The dropdown
 
 
 
-As shown above, the current dropdown is limited in its capabilities and very simplistic design. Your job will be to replace this dropdown with your own custom implementation and add more features, requested by our developers. Use the current dropdown component implementation as a starting point and build a completely custom dropdown within a private fork of this repository. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown, we want to see your own unique approach:
+As shown above, the current dropdown is limited in its capabilities and very simplistic design. Your job will be to replace this dropdown with your own custom implementation and add [more features](https://github.com/dawoodkhan82/gradio-assessment#core-dropdown-features), requested by our developers. Use the current dropdown component implementation as a starting point and build a completely custom dropdown within a private fork of this repository. Below is an example of a custom dropdown with extra functionality, don't feel the need to mimic this exact dropdown, we want to see your own unique approach:
 
 ![210434026-737809ed-5e6c-4b10-97ff-e489bbfe72e4_AdobeExpress_AdobeExpress](https://user-images.githubusercontent.com/12725292/215605827-a20fda39-0dec-4bb8-8928-8118695489bc.gif)
 
