@@ -6,7 +6,7 @@ Thanks for taking the time to interview with the Gradio team, the next step in t
 
 The format of the assessment will consist of:
 1. A quick call to help you get setup with your local development environment and answer any questions around the assessment.
-2. Time on your own to complete the assessment. (You can always ask us clarifying questions during this process)
+2. Spend no more than 4-5 hours on this take home assessment. You can always ask us clarifying questions during this process. Also you can always discuss your approach and how you would've implemented something you didn't have the time for.
 3. A final call to explain your submission and approach.
 
 The purpose of this assessment is to create a custom dropdown menu. The dropdown component is an important input component within the Gradio library. It allows developers to enable users to select from a list of options within their demos. This repository currently implements a standard dropdown menu using the html `select` element:
@@ -51,7 +51,7 @@ It's helpful to know the overall structure of the repository, although you will 
 
 ## What we're looking for
 
-Please don't feel the need to spend too much time on this assessment! You can always discuss your approach and how you would've implemented something you didn't have the time for. We're mainly looking for how you work and communicate.
+Please don't feel the need to spend too much time on this assessment! To re-iterate: you can always discuss your approach and how you would've implemented something you didn't have the time for. We're mainly looking for how you work and communicate.
 
 ### Overall:
 
